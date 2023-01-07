@@ -11,7 +11,7 @@ import lombok.Data;
 public class Personal {
 
 
-//this is branch hot-fix
+
     private Integer uid;
     @TableField("id_safety")
     private String idsafety;
@@ -31,6 +31,6 @@ public class Personal {
     private String selfdescription3;
     @TableField("self_description4")
     private String selfdescription4;
-
+//this is master
 
 }
