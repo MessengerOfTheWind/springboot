@@ -10,8 +10,8 @@ import lombok.Data;
 @Data
 public class Personal {
 
-//
-//
+
+//this is branch hot-fix
     private Integer uid;
     @TableField("id_safety")
     private String idsafety;
