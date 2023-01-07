@@ -12,7 +12,7 @@ public class Personal {
 
 
 //this is branch hot-fix;
-//push test
+
     private Integer uid;
     @TableField("id_safety")
     private String idsafety;
