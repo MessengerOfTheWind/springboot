@@ -10,7 +10,7 @@ import lombok.Data;
 @Data
 public class Personal {
 
-
+//
 //
     private Integer uid;
     @TableField("id_safety")
